@@ -1,0 +1,91 @@
+# Copyright (C) 2015 Restrict Content Pro - GetResponse
+# This file is distributed under the same license as the Restrict Content Pro - GetResponse package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Restrict Content Pro - GetResponse 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/RCP-GetResponse\n"
+"POT-Creation-Date: 2015-05-02 00:23:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: rcp-getresponse.php:170
+msgid "Restrict Content Pro GetResponse Settings"
+msgstr ""
+
+#: rcp-getresponse.php:171 rcp-getresponse.php:309
+msgid "GetResponse"
+msgstr ""
+
+#: rcp-getresponse.php:194
+msgid "Options saved"
+msgstr ""
+
+#: rcp-getresponse.php:205
+msgid "GetResponse API Key"
+msgstr ""
+
+#: rcp-getresponse.php:209
+msgid ""
+"Enter your GetResponse API key to enable a newsletter signup option with the "
+"registration form."
+msgstr ""
+
+#: rcp-getresponse.php:214
+msgid "Newsletter List"
+msgstr ""
+
+#: rcp-getresponse.php:224
+msgid "No lists"
+msgstr ""
+
+#: rcp-getresponse.php:228
+msgid "Choose the list to subscribe users to."
+msgstr ""
+
+#: rcp-getresponse.php:233
+msgid "Form Label"
+msgstr ""
+
+#: rcp-getresponse.php:236 rcp-getresponse.php:265
+msgid "Signup for Newsletter"
+msgstr ""
+
+#: rcp-getresponse.php:237
+msgid "Enter the label to be used for the \"Signup for Newsletter\" checkbox."
+msgstr ""
+
+#: rcp-getresponse.php:243
+msgid "Save Options"
+msgstr ""
+
+#: rcp-getresponse.php:306
+msgid "Yes"
+msgstr ""
+
+#: rcp-getresponse.php:306
+msgid "No"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Restrict Content Pro - GetResponse"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "???"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Include a GetResponse signup option with your RCP registration form"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Daniel J Griffiths"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://section214.com"
+msgstr ""
